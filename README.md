@@ -15,6 +15,7 @@ A simple password generator built with HTML, Tailwind CSS, and vanilla JavaScrip
 - Press Enter to generate
 
 ## Project Structure
+```
 ├── index.html
 ├── js/
 │ ├── script.js # Event listeners and DOM setup
@@ -22,6 +23,7 @@ A simple password generator built with HTML, Tailwind CSS, and vanilla JavaScrip
 │ ├── validateCopy.js # Copy-to-clipboard logic
 │ └── renderUI.js # Renders the UI markup
 └── README.md
+```
 
 ## How to Use
 
